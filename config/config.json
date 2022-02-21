@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfb12ed3a08c083d10e936cdaa36d58d2870a2099",
+  "SCAN_LINK": "https://bscscan.com/address/0xfb12ed3a08c083d10e936cdaa36d58d2870a2099",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Cyborg Warz",
+  "SYMBOL": "CWARZ",
+  "MAX_SUPPLY": 210,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
